@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Betavue Creative Agency]]></title>
+        <description><![CDATA[Betavue Creative Agency]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 25 Dec 2015 08:40:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a70c1cf4-8689-4cbc-aa5f-6d1418a8d960.jpg">]]></description>
+            <link>undefined85f81784-7d0c-4013-bff0-fd6ec5dcca95/index.html</link>
+            <guid isPermaLink="false">85f81784-7d0c-4013-bff0-fd6ec5dcca95</guid>
+            <pubDate>Fri, 25 Dec 2015 08:39:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
